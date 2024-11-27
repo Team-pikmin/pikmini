@@ -24,7 +24,7 @@ export const redPikmin = styled.img`
 const GlobalStyle = createGlobalStyle`
   @font-face {
     font-family: 'EF_jejudoldam';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-EF@1.0/EF_jejudoldam.woff2');
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-EF@1.0/EF_jejudoldam.woff2') format('opentype');
     font-weight: normal;
     font-style: normal;
   }
